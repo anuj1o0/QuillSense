@@ -16,7 +16,7 @@ QuillSense is your all-in-one content processing toolkit, offering three powerfu
 
 ## 🚀 Live Demo
 
-Experience QuillSense in action: [QuillSense Demo](https://quillsense.vercel.app)
+Experience QuillSense in action: [QuillSense Demo]()
 
 ## 🛠️ Tech Stack
 
@@ -104,12 +104,12 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 📞 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
+Your Name - [@Anuj](www.linkedin.com/in/anuj-srivastava090)
 
 Project Link: [https://github.com/yourusername/quillsense](https://github.com/yourusername/quillsense)
 
 ---
 
 <div align="center">
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Anuj]
 </div>
