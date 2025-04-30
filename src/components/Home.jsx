@@ -53,17 +53,23 @@ const Home = () => {
       description: "Extract and clean article content from any webpage automatically.",
       icon: "🔍",
       path: "/extract-article"
+    },
+    {
+      title: "YouTube Summarizer",
+      description: "Get summaries, key takeaways, and Q&A from any YouTube video.",
+      icon: "🎥",
+      path: "/summarize-youtube"
     }
   ];
 
   return (
-    <header className='w-full flex justify-center items-center flex-col'>
+    <header className='w-full flex justify-center items-center flex-col pb-10'>
       <h1 className="head_text">
       Simplify, Extract, Summarize <br className="max-md:hidden" />
         <span className="orange_gradient">QuillSense</span>
       </h1>
       <h2 className="desc">
-      Effortlessly extract content, summarize articles, and distill key insights with QuillSense. Your go-to tool for smarter, faster text analysis.
+      Effortlessly extract content, summarize articles, summarize youtube videos and distill key insights with QuillSense. Your go-to tool for smarter, faster text analysis.
       </h2>
 
       {/* Features Section */}

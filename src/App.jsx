@@ -3,6 +3,7 @@ import Demo from './components/Demo';
 import './App.css';
 import Extract from './components/Extract';
 import SummarizeText from './components/SummarizeText';
+import YouTubeSummarizer from './components/YouTubeSummarizer';
 import Home from './components/Home';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
@@ -20,6 +21,7 @@ const App = () => {
                     <Route path="/summarize-article" element={<Demo />} />
                     <Route path="/summarize-text" element={<SummarizeText />} />
                     <Route path="/extract-article" element={<Extract />} />
+                    <Route path="/summarize-youtube" element={<YouTubeSummarizer />} />
                 </Routes>
                 </Router>
             </div>
